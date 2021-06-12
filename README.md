@@ -6,4 +6,4 @@
 por nao  ter conseguido hospedar o  site aqui noGitHub pages deixei o link para uma hospedagem esterna
  
  Adicionado link para o  site
- # instagramlogindapcjunior.netlify.app
+ # https://instagramlogindapcjunior.netlify.app/
